@@ -1,2 +1,0 @@
-# Project Repository
-Initial commit.
