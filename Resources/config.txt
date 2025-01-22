@@ -1,0 +1,34 @@
+Enter your JIRA Credentials
+
+"JIRA":{
+    "Username": "string",
+    "Password": "string",
+    "Url": "string"
+}
+
+
+Notification Service Credentials
+
+"Slack":{
+   "SLACK_WEBHOOK_URL": "string", 
+   "SLACK_TOKEN": "string", 
+   "SLACK_CHANNEL_ID": "string" 
+}
+
+"Webex":{
+   "WEBEX_BOT_ACCESS_TOKEN": "string", 
+   "WEBEX_ROOM_ID": "string"
+}
+
+"Email":{
+   "EMAIL_ID": "string" 
+}
+
+"Teams":{
+   "TEAMS_WEBHOOK_URL": "string" 
+}
+
+
+GitHub Credentials"Github":{
+   "PERSONAL_ACCESS_TOKEN": "YOUR_SLACK_TOKEN", 
+   "HTTPS": "YOUR_SLACK_CHANNEL_ID" 
