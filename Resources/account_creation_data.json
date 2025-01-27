@@ -1,159 +1,37 @@
 [
-   [
-      {
-         "field_label_name": "Account Name",
-         "field_value": "Cristho Name",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Rating",
-         "field_value": "Hot",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Parent Account",
-         "field_value": "Cristho",
-         "field_type": "search and select"
-      },
-      {
-         "field_label_name": "SLA Expiration Date",
-         "field_value": "11/21/2024",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Rating",
-         "field_value": "Hot",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Phone",
-         "field_value": "+1-800-123-4567",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Fax",
-         "field_value": "+1-800-987-6543",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Account Number",
-         "field_value": "ACME12345",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Website",
-         "field_value": "https://www.acmecorp.com",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Account Site",
-         "field_value": "New York Office",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Ticker Symbol",
-         "field_value": "ACME",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Type",
-         "field_value": "Prospect",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Ownership",
-         "field_value": "Public",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Industry",
-         "field_value": "Technology",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Employees",
-         "field_value": "500",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Annual Revenue",
-         "field_value": "$50,000,000",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "SIC Code",
-         "field_value": "1234",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Customer Priority",
-         "field_value": "High",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "SLA",
-         "field_value": "Gold",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Billing Street",
-         "field_value": "123 Elm Street",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Billing City",
-         "field_value": "New York",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Billing Zip/Postal Code",
-         "field_value": "10001",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Billing State/Province",
-         "field_value": "NY",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Billing Country",
-         "field_value": "USA",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Shipping Street",
-         "field_value": "456 Oak Avenue",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Shipping City",
-         "field_value": "Brooklyn",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Number of Locations",
-         "field_value": "5",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "SLA Serial Number",
-         "field_value": "SLA123456",
-         "field_type": "textbox"
-      },
-      {
-         "field_label_name": "Upsell Opportunity",
-         "field_value": "Yes",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Active",
-         "field_value": "Yes",
-         "field_type": "dropdown"
-      },
-      {
-         "field_label_name": "Description",
-         "field_value": "A leading provider of innovative technology solutions.",
-         "field_type": "textbox"
-      }
-   ]
+   {
+      "Rating": "Hot",
+      "Account Name": "Cristho",
+      "Phone": "+1-800-123-4567",
+      "Parent Account": "Edge Communications",
+      "Fax": "+1-800-987-6543",
+      "Account Number": "ACME12345",
+      "Website": "https://www.acmecorp.com",
+      "Account Site": "New York Office",
+      "Ticker Symbol": "ACME",
+      "Type": "Prospect",
+      "Ownership": "Public",
+      "Industry": "Technology",
+      "Employees": "500",
+      "Annual Revenue": "$50,000,000",
+      "SIC Code": "1234",
+      "Billing Street": "123 Elm Street",
+      "Billing City": "New York",
+      "Billing Zip/Postal Code": "10001",
+      "Billing State/Province": "NY",
+      "Billing Country": "USA",
+      "Shipping Street": "456 Oak Avenue",
+      "Shipping City": "Brooklyn",
+      "Shipping Zip/Postal Code": "11201",
+      "Shipping State/Province": "NY",
+      "Shipping Country": "USA",
+      "Customer Priority": "High",
+      "SLA": "Gold",
+      "SLA Expiration Date": "29/08/2024",
+      "SLA Serial Number": "SLA123456",
+      "Number of Locations": "5",
+      "Upsell Opportunity": "Yes",
+      "Active": "Yes",
+      "Description": "A leading provider of innovative technology solutions."
+   }
 ]
